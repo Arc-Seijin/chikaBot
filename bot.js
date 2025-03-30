@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 const bot = mineflayer.createBot({
   host: 'Test-LEaV.aternos.me', // Replace with your Aternos server IP
   port: 31944,                     // Default Minecraft port
-  username: 'TheKeeper69'             // Change this if needed
+  username: 'TheKeeper696969'             // Change this if needed
 });
 
 bot.on('spawn', () => {
